@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MinAndMaxOfAnInteger.iml" filepath="$PROJECT_DIR$/MinAndMaxOfAnInteger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinAndMaxOfAnIntByteShortLong.iml" filepath="$PROJECT_DIR$/MinAndMaxOfAnIntByteShortLong.iml" />
     </modules>
   </component>
 </project>
